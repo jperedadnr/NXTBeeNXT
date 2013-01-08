@@ -3,7 +3,7 @@ NXTBeeNXT
 
 leJOS NXJ project for Lego Mindstorms NXT of a BumperCar remotely controlled via NXTBee
 
-Read full description here: http://jperedadnr.blogspot.com.es/
+Read full description here: http://jperedadnr.blogspot.com.es/2013/01/nxtbeefx-javafx-based-app-for-raspberry.html
 
 REQUIREMENTS
 
